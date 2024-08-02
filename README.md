@@ -1,16 +1,46 @@
-# kelimekesfi1
+# BOOTCAMP TAKIM 74
+## Takım Üyeleri
+Özge YILMAZ - Scrum Master
 
-A new Flutter project.
+Emre ERCAN - Developer
 
-## Getting Started
+Eray Ramazan KULOĞLU - Developer
 
-This project is a starting point for a Flutter application.
+Rabia ÇETE - Developer
 
-A few resources to get you started if this is your first Flutter project:
+Tuba ÇALCI - Product Owner
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Ürün İsmi 
+Kelime keşfi, Dil denizi, VacoVista(Seçenekler)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Backlog Url
+Jira
+
+## Ürün Açıklaması
+Kelime Listesi Uygulaması, kullanıcıların dil becerilerini geliştirmek ve kelime dağarcıklarını genişletmek için tasarlanmış bir mobil uygulamadır. Uygulama, kullanıcıların yeni kelimeler öğrenmelerine, kelimeleri kişiselleştirilmiş listelerde organize etmelerine ve günlük hatırlatmalarla düzenli olarak pratik yapmalarına olanak tanır. Ayrıca, eğlenceli oyunlar ve testler ile öğrenme sürecini daha etkili ve eğlenceli hale getirir. Kullanıcılar, öğrenme süreçlerini takip edebilecekleri istatistiklerle de gelişimlerini gözlemleyebilirler.
+
+
+## Ürün Özellikleri
+Geniş Kelime Havuzu: Kullanıcılar geniş bir kelime havuzundan yeni kelimeler keşfedebilir ve öğrenebilir.
+
+Liste Oluşturma: Kullanıcılar kendi kelime listelerini kolayca oluşturabilir ve düzenleyebilir.
+
+Favori Kelimeler: Öğrenmek istedikleri kelimeleri favori olarak işaretleyip, listeleyebilirler.
+
+Özelleştirilebilir Hatırlatmalar: Kullanıcılar günlük hatırlatmalar alarak düzenli pratik yapabilirler.
+
+## Hedef Kitle
+Öğrenciler
+
+Kendini Geliştirmek İsteyen Bireyler
+
+Profesyoneller
+
+Dil Meraklıları
+
+
+
+
+
+
+
